@@ -5,3 +5,7 @@ torch
 torchvision
 basicsr
 realesrgan
+facexlib
+gfpgan
+opencv-python-headless
+numpy<2.0.0
