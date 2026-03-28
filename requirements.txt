@@ -1,0 +1,7 @@
+runpod
+boto3
+requests
+torch
+torchvision
+basicsr
+realesrgan
